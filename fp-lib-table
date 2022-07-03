@@ -1,6 +1,6 @@
 (fp_lib_table
-  (lib (name "RP2040_minimal")(type "KiCad")(uri "C:/Users/Admin/Documents/GitHub/orion PCB/RP2040_minimal lib")(options "")(descr ""))
-  (lib (name "marbastlib-mx")(type "KiCad")(uri "C:/Users/Admin/Documents/GitHub/orion PCB/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
-  (lib (name "marbastlib-various")(type "KiCad")(uri "C:/Users/Admin/Documents/GitHub/orion PCB/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
+  (lib (name "RP2040_minimal")(type "KiCad")(uri "${KIPRJMOD}/RP2040_minimal.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
   (lib (name "graphics")(type "KiCad")(uri "${KIPRJMOD}/graphics.pretty")(options "")(descr ""))
 )
