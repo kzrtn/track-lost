@@ -6,6 +6,7 @@ F12 TKL type-C PCB for the Duck Orion. Designed in KiCad 6.0
 ![track lost PCB traces](https://user-images.githubusercontent.com/6176161/177023001-8a25e5e8-0e82-4c40-9ce6-0b3b61d71fbf.png)
 
 ## Features
+- [QMK](https://docs.qmk.fm/#/) and [VIAL](https://get.vial.today/) compatible
 - Uses an RP2040 MCU with 32MB of external flash
 - Uses WS2812C-2020 LEDs for smaller footprint and less power usage
 - Has more underglow LEDs for better LED diffusion
