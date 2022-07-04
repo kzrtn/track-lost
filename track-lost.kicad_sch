@@ -2822,7 +2822,7 @@
     (in_bom yes) (on_board yes)
     (uuid 286ddfa6-090e-4c89-8a84-b51b9b4f2a98)
     (property "Reference" "C4" (id 0) (at 128.27 68.58 90))
-    (property "Value" "10p" (id 1) (at 133.35 68.58 90))
+    (property "Value" "20pF" (id 1) (at 135.382 68.326 90))
     (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 130.81 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3115,7 +3115,7 @@
     (in_bom yes) (on_board yes)
     (uuid 73467419-f6d1-498f-b04e-fa44356aac02)
     (property "Reference" "C5" (id 0) (at 128.27 77.47 90))
-    (property "Value" "10p" (id 1) (at 133.35 77.47 90))
+    (property "Value" "20pF" (id 1) (at 133.35 75.692 90))
     (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 130.81 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3913,10 +3913,10 @@
       (reference "C3") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/286ddfa6-090e-4c89-8a84-b51b9b4f2a98"
-      (reference "C4") (unit 1) (value "10p") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C4") (unit 1) (value "20pF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/73467419-f6d1-498f-b04e-fa44356aac02"
-      (reference "C5") (unit 1) (value "10p") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C5") (unit 1) (value "20pF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/bc8559e9-dce1-4aac-9e8d-1c0cb05a4535"
       (reference "C6") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")

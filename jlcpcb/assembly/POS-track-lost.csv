@@ -2,8 +2,8 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 C1,100n,C_0402_1005Metric,276.3525,-113.5825,0.0,bottom
 C2,1uF,C_0402_1005Metric,264.17,-53.56,180.0,bottom
 C3,1uF,C_0402_1005Metric,264.17,-59.1025,0.0,bottom
-C4,10p,C_0402_1005Metric,270.458,-126.56125,90.0,bottom
-C5,10p,C_0402_1005Metric,276.303,-126.55125,-90.0,bottom
+C4,20pF,C_0402_1005Metric,270.458,-126.56125,90.0,bottom
+C5,20pF,C_0402_1005Metric,276.303,-126.55125,-90.0,bottom
 C6,100n,C_0402_1005Metric,271.568,-109.09,90.0,bottom
 C7,100n,C_0402_1005Metric,269.3225,-126.5425,-90.0,bottom
 C8,1u,C_0402_1005Metric,266.308,-109.09,90.0,bottom
